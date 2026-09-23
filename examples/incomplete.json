@@ -1,0 +1,9 @@
+{
+  "ticker": "SYNTHETIC",
+  "quarter": "Q1 example",
+  "metrics": {
+    "revenue_beat_pct": {"status": "observed", "value": 0, "source_id": "S1"},
+    "eps_beat_pct": {"status": "missing"}
+  },
+  "sources": {"S1": "Synthetic fixture; not a real company"}
+}
