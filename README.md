@@ -1,4 +1,6 @@
 # earnings-analysis
+
+> **Responsible AI:** Analyst-controlled research; verify evidence, disclose AI assistance and protect confidential information. [Policy and project-specific checks](RESPONSIBLE_AI.md).
 quick earnings analysis with consensus Wall Street forecast, with past guidance, with peer industry trend.
 An Agent Skill for institutional-quality earnings analysis from 10-Q/10-K filings, earnings releases, and call transcripts. Built for buyside-style post-print review that goes beyond beat/miss reporting to diagnose why results deviated, what changed in the forward thesis, and what action follows.
 What it does
